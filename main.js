@@ -1,5 +1,6 @@
 function main() {
-	console.log("moo!");
+	let userName = ""
+	console.log(`moo ${userName}`);
 }
 
 main();
